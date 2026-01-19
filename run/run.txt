@@ -1,0 +1,218 @@
+Markdown
+# 🎓 KTU Result Analyzer & SGPA Calculator
+
+> **A Full-Stack Automated Result Analysis System for APJ Abdul Kalam Technological University (KTU)**
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Framework](https://img.shields.io/badge/Framework-Flask-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-orange)
+
+## 📖 Overview
+
+The **KTU Result Analyzer** is a robust software tool designed to automate the extraction and analysis of university exam results. It eliminates manual calculation errors by parsing unstructured PDF result notifications, identifying subject credits using intelligent mapping, and calculating the **SGPA** (Semester Grade Point Average).
+
+Built with a **Flask** backend and a modern **HTML/CSS** frontend, it offers a drag-and-drop interface that processes data instantly and generates a detailed **Excel Master Sheet** ready for printing or archiving.
+
+### ✨ Key Features
+* **PDF Parsing:** Extracts raw data from KTU result notification PDFs.
+* **Intelligent Logic:** Filters out supplementary attempts and focuses on the latest regular batch.
+* **SGPA Calculation:** Automatically calculates GPA based on subject credits.
+* **Excel Export:** Generates a formatted Master Sheet with Pivot tables.
+
+---
+
+## 🚀 How to Run Locally
+
+Follow these 6 simple steps to set up and run the project on your machine.
+
+### 1. Prerequisites
+Before you begin, ensure you have the following installed:
+* **Python 3.x** (Verify by typing `python --version` in your terminal).
+* **Git** (Optional, for cloning).
+
+### 2. Clone the Repository
+Open your terminal or command prompt and run the following command:
+
+```bash
+git clone [https://github.com/YOUR-USERNAME/KTU_Result_Analyzer.git](https://github.com/YOUR-USERNAME/KTU_Result_Analyzer.git)
+cd KTU_Result_Analyzer
+(Alternatively, download the ZIP file from GitHub and extract it).
+
+3. Set Up a Virtual Environment (Recommended)
+It is best practice to use a virtual environment to avoid library conflicts.
+
+For Windows:
+
+Bash
+python -m venv venv
+venv\Scripts\activate
+For macOS / Linux:
+
+Bash
+python3 -m venv venv
+source venv/bin/activate
+You should see (venv) appear at the start of your terminal line.
+
+4. Install Dependencies
+Install all required libraries (Flask, Pandas, PDFPlumber, etc.) using the requirements file:
+
+Bash
+pip install -r requirements.txt
+5. Run the Application
+Navigate to the Web Interface folder and start the server:
+
+Bash
+cd 06_Web_Interface
+python app.py
+You will see a confirmation message indicating the server is running:
+
+Running on http://127.0.0.1:5000
+
+6. Open in Browser
+Open your web browser (Chrome, Edge, Firefox) and go to: 👉 http://127.0.0.1:5000
+
+🛠️ How to Use
+Upload: Drag and drop your KTU Result Notification PDF into the upload box on the web page.
+
+Analyze: Click the "🚀 Analyze Results" button.
+
+The system will extract data, identify the latest batch, calculate SGPAs, and format the Excel sheet.
+
+Download: Once processing is complete, a "📥 Download Excel Master Sheet" button will appear. Click it to save your report.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Markdown
+# 🎓 KTU Result Analyzer & SGPA Calculator
+
+> **A Full-Stack Automated Result Analysis System for APJ Abdul Kalam Technological University (KTU)**
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Framework](https://img.shields.io/badge/Framework-Flask-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-orange)
+
+## 📖 Overview
+
+The **KTU Result Analyzer** is a robust software tool designed to automate the extraction and analysis of university exam results. It eliminates manual calculation errors by parsing unstructured PDF result notifications, identifying subject credits using intelligent mapping, and calculating the **SGPA** (Semester Grade Point Average).
+
+Built with a **Flask** backend and a modern **HTML/CSS** frontend, it offers a drag-and-drop interface that processes data instantly and generates a detailed **Excel Master Sheet** ready for printing or archiving.
+
+### ✨ Key Features
+* **PDF Parsing:** Extracts raw data from KTU result notification PDFs.
+* **Intelligent Logic:** Filters out supplementary attempts and focuses on the latest regular batch.
+* **SGPA Calculation:** Automatically calculates GPA based on subject credits.
+* **Excel Export:** Generates a formatted Master Sheet with Pivot tables.
+
+---
+
+## 🚀 How to Run Locally
+
+Follow these 6 simple steps to set up and run the project on your machine.
+
+### 1. Prerequisites
+Before you begin, ensure you have the following installed:
+* **Python 3.x** (Verify by typing `python --version` in your terminal).
+* **Git** (Optional, for cloning).
+
+### 2. Clone the Repository
+Open your terminal or command prompt and run the following command:
+
+```bash
+git clone [https://github.com/YOUR-USERNAME/KTU_Result_Analyzer.git](https://github.com/YOUR-USERNAME/KTU_Result_Analyzer.git)
+cd KTU_Result_Analyzer
+(Alternatively, download the ZIP file from GitHub and extract it).
+
+3. Set Up a Virtual Environment (Recommended)
+It is best practice to use a virtual environment to avoid library conflicts.
+
+For Windows:
+
+Bash
+python -m venv venv
+venv\Scripts\activate
+For macOS / Linux:
+
+Bash
+python3 -m venv venv
+source venv/bin/activate
+You should see (venv) appear at the start of your terminal line.
+
+4. Install Dependencies
+Install all required libraries (Flask, Pandas, PDFPlumber, etc.) using the requirements file:
+
+Bash
+pip install -r requirements.txt
+5. Run the Application
+Navigate to the Web Interface folder and start the server:
+
+Bash
+cd 06_Web_Interface
+python app.py
+You will see a confirmation message indicating the server is running:
+
+Running on http://127.0.0.1:5000
+
+6. Open in Browser
+Open your web browser (Chrome, Edge, Firefox) and go to: 👉 http://127.0.0.1:5000
+
+🛠️ How to Use
+Upload: Drag and drop your KTU Result Notification PDF into the upload box on the web page.
+
+Analyze: Click the "🚀 Analyze Results" button.
+
+The system will extract data, identify the latest batch, calculate SGPAs, and format the Excel sheet.
+
+Download: Once processing is complete, a "📥 Download Excel Master Sheet" button will appear. Click it to save your report.
