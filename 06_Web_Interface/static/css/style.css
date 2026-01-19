@@ -1,0 +1,80 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f7f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    text-align: center;
+    width: 450px;
+}
+
+h1 { color: #2c3e50; margin-bottom: 5px; }
+p { color: #7f8c8d; font-size: 14px; }
+
+/* Upload Zone */
+.upload-area {
+    border: 2px dashed #3498db;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px 0;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.upload-area:hover { background-color: #eaf6fd; }
+.upload-area.highlight { background-color: #d6eaf8; border-color: #2980b9; }
+
+.icon { font-size: 40px; margin-bottom: 10px; }
+.browse-btn { color: #3498db; font-weight: bold; text-decoration: underline; cursor: pointer; }
+.file-name { margin-top: 10px; font-weight: 600; color: #2c3e50; }
+
+/* Buttons */
+button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn-primary { background-color: #3498db; color: white; }
+.btn-primary:hover { background-color: #2980b9; }
+.btn-primary:disabled { background-color: #bdc3c7; cursor: not-allowed; }
+
+.btn-success {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    background-color: #2ecc71;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.btn-success:hover { background-color: #27ae60; }
+
+/* Loader */
+.loader {
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    animation: spin 1s linear infinite;
+    margin: 20px auto;
+}
+
+@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
