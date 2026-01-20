@@ -4,3 +4,4 @@ streamlit
 openpyxl
 regex
 flask
+gunicorn
