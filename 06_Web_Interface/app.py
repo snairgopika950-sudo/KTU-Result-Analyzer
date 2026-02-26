@@ -79,19 +79,48 @@ def analyze():
     pdf_path = os.path.join(input_zone, 'sample_result.pdf')
     file.save(pdf_path)
 
+    # try:
+    #     # Build unbreakable paths to your scripts
+    #     extractor_script = os.path.join(ROOT_DIR, '02_Extraction_Engine', 'extractor.py')
+    #     exporter_script = os.path.join(ROOT_DIR, '05_Excel_Generator', 'exporter.py')
+
+    #     # Run the scripts using the absolute paths
+    #     subprocess.run([sys.executable, extractor_script], check=True)
+    #     subprocess.run([sys.executable, exporter_script], check=True)
+
+    #     return jsonify({'status': 'success'}), 200
+    # except subprocess.CalledProcessError as e:
+    #     # If the script fails, this will capture the exact reason why
+    #     return jsonify({'error': f"Script crashed: {str(e)}"}), 500
+    # except Exception as e:
+    #     return jsonify({'error': str(e)}), 500
     try:
-        # Build unbreakable paths to your scripts
+        # Build exact paths to scripts
         extractor_script = os.path.join(ROOT_DIR, '02_Extraction_Engine', 'extractor.py')
+        
+        # ---> IMPORTANT: Add your middle scripts here if you need them! <---
+        # calc_script = os.path.join(ROOT_DIR, '04_Calculation_Core', 'calculator.py')
+        # db_script = os.path.join(ROOT_DIR, '03_Database_Store', 'db_manager.py')
+        
         exporter_script = os.path.join(ROOT_DIR, '05_Excel_Generator', 'exporter.py')
 
-        # Run the scripts using the absolute paths
-        subprocess.run([sys.executable, extractor_script], check=True)
-        subprocess.run([sys.executable, exporter_script], check=True)
+        # Run them in the exact right order! 
+        # Added 'capture_output=True, text=True' to catch the exact error logs
+        subprocess.run([sys.executable, extractor_script], check=True, capture_output=True, text=True)
+        
+        # subprocess.run([sys.executable, calc_script], check=True, capture_output=True, text=True)
+        # subprocess.run([sys.executable, db_script], check=True, capture_output=True, text=True)
+        
+        subprocess.run([sys.executable, exporter_script], check=True, capture_output=True, text=True)
 
         return jsonify({'status': 'success'}), 200
+        
     except subprocess.CalledProcessError as e:
-        # If the script fails, this will capture the exact reason why
-        return jsonify({'error': f"Script crashed: {str(e)}"}), 500
+        # This is the magic part: It will now print the EXACT Python error on your screen!
+        error_details = e.stderr if e.stderr else str(e)
+        print(f"CRASH LOG: {error_details}") # This will print in your VS Code terminal
+        return jsonify({'error': f"Python Error:\n{error_details}"}), 500
+        
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
