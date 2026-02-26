@@ -3,8 +3,23 @@ import json
 import os
 
 # --- CONFIGURATION ---
-DB_PATH = "../03_Database_Store/results.db"
-CREDIT_MAP_FILE = "credit_map.json"
+# DB_PATH = "../03_Database_Store/results.db"
+# CREDIT_MAP_FILE = "credit_map.json"
+
+import os
+
+# --- ABSOLUTE PATH CALCULATION ---
+# 1. Get the exact folder where this calculator script lives (e.g., .../04_Calculation_Core)
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# 2. Go up one level to the main project root folder (.../KTU-Result-Analyzer)
+ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, ".."))
+
+# 3. Define the unbreakable absolute paths
+DB_PATH = os.path.join(ROOT_DIR, "03_Database_Store", "results.db")
+
+# Since credit_map.json is in the exact same folder as this script, we use CURRENT_DIR
+CREDIT_MAP_FILE = os.path.join(CURRENT_DIR, "credit_map.json")
 
 # --- GRADE POINTS (KTU 2019 Scheme) ---
 # Adjust these values if your scheme is different

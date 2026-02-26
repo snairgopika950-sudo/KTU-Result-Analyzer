@@ -4,8 +4,24 @@ import os
 import pandas as pd
 
 # --- CONFIGURATION ---
-JSON_SOURCE = "../02_Extraction_Engine/raw_data.json"
-DB_FILE = "results.db"
+# JSON_SOURCE = "../02_Extraction_Engine/raw_data.json"
+# DB_FILE = "results.db"
+
+import os
+
+# --- ABSOLUTE PATH CALCULATION ---
+# 1. Get the exact folder where this db manager script lives (e.g., .../03_Database_Store)
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# 2. Go up one level to the main project root folder (.../KTU-Result-Analyzer)
+ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, ".."))
+
+# 3. Define the unbreakable absolute paths
+# Safely locate the JSON file in the Extraction folder
+JSON_SOURCE = os.path.join(ROOT_DIR, "02_Extraction_Engine", "raw_data.json")
+
+# Safely create/connect to the database in the exact same folder as this script
+DB_FILE = os.path.join(CURRENT_DIR, "results.db")
 
 def init_db():
     """Creates the empty database table if it doesn't exist."""

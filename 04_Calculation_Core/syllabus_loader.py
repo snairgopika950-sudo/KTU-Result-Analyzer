@@ -4,8 +4,24 @@ import json
 import os
 
 # --- CONFIGURATION ---
-INPUT_FOLDER = "../01_Input_Zone"
-JSON_FILE = "credit_map.json"
+# INPUT_FOLDER = "../01_Input_Zone"
+# JSON_FILE = "credit_map.json"
+
+
+import os
+
+# --- ABSOLUTE PATH CALCULATION ---
+# 1. Get the exact folder where this calculator script lives (e.g., .../04_Calculation_Core)
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# 2. Go up one level to the main project root folder (.../KTU-Result-Analyzer)
+ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, ".."))
+
+# 3. Define the unbreakable absolute paths
+DB_PATH = os.path.join(ROOT_DIR, "03_Database_Store", "results.db")
+
+# Since credit_map.json is in the exact same folder as this script, we use CURRENT_DIR
+CREDIT_MAP_FILE = os.path.join(CURRENT_DIR, "credit_map.json")
 
 # Regex to find Course Codes (e.g., CST201 or AMT 302)
 CODE_PATTERN = r"([A-Z]{3}\s?\d{3})"
