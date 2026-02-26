@@ -1,0 +1,99 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KTU Result Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>🎓 KTU Result Analyzer</h1>
+            <p>Automated SGPA Calculator & Analytics Engine</p>
+        </header>
+
+        <div class="upload-area" id="drop-zone">
+            <input type="file" id="file-input" accept=".pdf" hidden>
+            <div class="icon">📂</div>
+            <h3>Drag & Drop Result PDF Here</h3>
+            <p>or <span class="browse-btn" onclick="document.getElementById('file-input').click()">Browse Files</span></p>
+            <p class="file-name" id="file-name"></p>
+        </div>
+
+        <button id="analyze-btn" class="btn-primary" disabled>🚀 Analyze Results</button>
+
+        <div class="status-box" id="status-box" style="display: none;">
+            <div class="loader"></div>
+            <p id="status-text">Processing your data...</p>
+        </div>
+
+        <div id="download-section" style="display: none; text-align: center; margin-top: 20px;">
+    <h3 style="color: #4CAF50;">✅ Analysis Complete!</h3>
+    <p>Your Excel master sheets are ready.</p>
+    
+    <div style="display: flex; gap: 15px; justify-content: center; margin-top: 15px;">
+        <a href="/download/Regular_Batch_Results.xlsx" class="download-btn" style="background-color: #007AFF; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: bold;">
+            📥 Download Regular Batch
+        </a>
+
+        <a href="/download/Supply_Batch_Results.xlsx" class="download-btn" style="background-color: #FF9500; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: bold;">
+            📥 Download Supply Batch
+        </a>
+    </div>
+</div>
+
+        <div id="download-section" style="display: none;">
+            <a href="/download" class="btn-success">📥 Download Excel Master Sheet</a>
+            <p class="success-msg">✅ Analysis Complete!</p>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KTU Result Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎓 KTU Result Analyzer</h1>
+            <p>Automated SGPA Calculator</p>
+        </header>
+
+        <div class="upload-area" id="drop-zone">
+            <input type="file" id="file-input" accept=".pdf" hidden>
+            <div class="icon">📂</div>
+            <h3>Drag & Drop Result PDF</h3>
+            <p>or <span class="browse-btn" onclick="document.getElementById('file-input').click()">Browse</span></p>
+            <p class="file-name" id="file-name"></p>
+        </div>
+
+        <button id="analyze-btn" class="btn-primary" disabled>🚀 Analyze Results</button>
+
+        <div id="status-box" style="display: none; margin-top: 20px;">
+            <div class="loader"></div>
+            <p id="status-text">Processing... Please wait.</p>
+        </div>
+
+        <div id="download-section" style="display: none; margin-top: 30px; border-top: 1px solid #eee; padding-top: 20px;">
+            <h3 style="color: #4CAF50;">✅ Ready!</h3>
+            <div style="display: flex; flex-direction: column; gap: 10px; margin-top: 15px;">
+                <a href="/download/Regular_Batch_Results.xlsx" class="btn-download" style="background: #007AFF; color: white; padding: 12px; border-radius: 8px; text-decoration: none; font-weight: 600;">📥 Regular Batch Excel</a>
+                <a href="/download/Supply_Batch_Results.xlsx" class="btn-download" style="background: #FF9500; color: white; padding: 12px; border-radius: 8px; text-decoration: none; font-weight: 600;">📥 Supply Batch Excel</a>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
