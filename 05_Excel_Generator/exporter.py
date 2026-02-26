@@ -3,9 +3,35 @@ import pandas as pd
 import os
 
 # --- CONFIGURATION ---
-DB_PATH = "../03_Database_Store/results.db"
-OUTPUT_FOLDER = "../07_Final_Output"
+# DB_PATH = "../03_Database_Store/results.db"
+# OUTPUT_FOLDER = "../07_Final_Output"
+# OUTPUT_FILE = "Final_KTU_Results.xlsx"
+
+
+
+# INPUT_FOLDER = "../01_Input_Zone"
+# PDF_FILE = "sample_result.pdf"
+# PDF_PATH = os.path.join(INPUT_FOLDER, PDF_FILE)
+# OUTPUT_JSON = "raw_data.json"
+
+
+import os
+
+# --- ABSOLUTE PATH CALCULATION ---
+# 1. Get the exact folder where exporter.py lives (.../05_Excel_Generator)
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# 2. Go up one level to the main project root folder (.../KTU-Result-Analyzer)
+ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, ".."))
+
+# 3. Define the unbreakable paths
+DB_PATH = os.path.join(ROOT_DIR, "03_Database_Store", "results.db")
+OUTPUT_FOLDER = os.path.join(ROOT_DIR, "07_Final_Output")
 OUTPUT_FILE = "Final_KTU_Results.xlsx"
+
+# Ensure the output folder actually exists before saving
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
 
 def generate_excel():
     print(" Generating Excel Master Sheet...")

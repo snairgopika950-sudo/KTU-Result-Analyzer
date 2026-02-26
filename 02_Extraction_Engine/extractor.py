@@ -167,10 +167,34 @@ import json
 import pandas as pd
 
 # --- CONFIGURATION (Kept exactly as requested) ---
-INPUT_FOLDER = "../01_Input_Zone"
+# INPUT_FOLDER = "../01_Input_Zone"
+# PDF_FILE = "sample_result.pdf"
+# PDF_PATH = os.path.join(INPUT_FOLDER, PDF_FILE)
+# OUTPUT_JSON = "raw_data.json"
+
+# FILE_DIR = os.path.dirname(os.path.abspath(__file__))
+# ROOT_DIR = os.path.abspath(os.path.join(FILE_DIR, ".."))
+
+# OUTPUT_DIR = os.path.join(ROOT_DIR, "07_Final_Output")
+
+
+import os
+
+# --- ABSOLUTE PATH CALCULATION ---
+# 1. Get the exact folder where this extractor.py script lives (.../02_Extraction_Engine)
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# 2. Get the main project root folder (.../KTU-Result-Analyzer)
+ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, ".."))
+
+# 3. Define the unbreakable path to the Input Zone
+INPUT_FOLDER = os.path.join(ROOT_DIR, "01_Input_Zone")
 PDF_FILE = "sample_result.pdf"
 PDF_PATH = os.path.join(INPUT_FOLDER, PDF_FILE)
-OUTPUT_JSON = "raw_data.json"
+
+# 4. Save the JSON strictly inside the Extraction Engine folder
+OUTPUT_JSON = os.path.join(CURRENT_DIR, "raw_data.json")
+
 
 # --- THE PATTERNS (Refined for KTU format) ---
 STUDENT_ID_PATTERN = r"(CEK\w+)"
