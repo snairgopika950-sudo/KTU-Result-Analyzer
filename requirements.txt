@@ -5,5 +5,3 @@ openpyxl
 regex
 flask
 gunicorn
-camelot-py[cv]
-opencv-python-headless
