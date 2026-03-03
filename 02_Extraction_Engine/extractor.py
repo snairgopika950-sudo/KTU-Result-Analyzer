@@ -202,16 +202,16 @@ STUDENT_ID_PATTERN = r"(CEK\w+)"
 SUBJECT_GRADE_PATTERN = r"([A-Z]{3}\d{3})\s*\(([^)]+)\)"
 
 def extract_data():
-    print(f"🚀 Starting Advanced Extraction on: {PDF_PATH}...")
+    print(f" Starting Advanced Extraction on: {PDF_PATH}...")
     
     if not os.path.exists(PDF_PATH):
-        print("❌ Error: File not found!")
+        print(" Error: File not found!")
         return
 
     extracted_data = []
 
     # --- PHASE 1: PRECISION TABLE EXTRACTION (Camelot) ---
-    print("📋 Attempting Table-Aware Extraction (Camelot)...")
+    print(" Attempting Table-Aware Extraction (Camelot)...")
     try:
         # 'stream' flavor is best for KTU results which usually don't have visible grid lines
         tables = camelot.read_pdf(PDF_PATH, pages='all', flavor='stream', edge_tol=50)
@@ -235,15 +235,15 @@ def extract_data():
                                 "Grade": grade.strip()
                             })
         
-        print(f"✅ Phase 1: Table extraction found {len(extracted_data)} entries.")
+        print(f" Phase 1: Table extraction found {len(extracted_data)} entries.")
 
     except Exception as e:
-        print(f"⚠️ Camelot failed or not configured: {e}. Falling back to text-based extraction.")
+        print(f" Camelot failed or not configured: {e}. Falling back to text-based extraction.")
 
     # --- PHASE 2: FALLBACK / REINFORCEMENT (pdfplumber) ---
     # We run this only if camelot found nothing, or to double-check missing students
     if len(extracted_data) == 0:
-        print("🔍 Running Fallback Regex Extraction (pdfplumber)...")
+        print(" Running Fallback Regex Extraction (pdfplumber)...")
         with pdfplumber.open(PDF_PATH) as pdf:
             for page in pdf.pages:
                 text = page.extract_text()
@@ -273,12 +273,12 @@ def extract_data():
     valid_grades = ['S','A+','A','B+','B','C+','C','D','P','F','FE','I','Absent']
     final_cleaned = [d for d in extracted_data if d['Grade'] in valid_grades]
 
-    print(f"\n✨ Extraction Complete! Found {len(final_cleaned)} verified entries.")
+    print(f"\n Extraction Complete! Found {len(final_cleaned)} verified entries.")
     
     # --- SAVE TO JSON FILE ---
     with open(OUTPUT_JSON, "w") as f:
         json.dump(final_cleaned, f, indent=4)
-    print(f"📂 Data saved to: {os.path.abspath(OUTPUT_JSON)}")
+    print(f" Data saved to: {os.path.abspath(OUTPUT_JSON)}")
 
 if __name__ == "__main__":
     extract_data()
