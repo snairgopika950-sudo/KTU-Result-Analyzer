@@ -10,3 +10,9 @@
 to show webinterface :  1 . cd "06_Web_Interface"
                         2 . run python app.py 
                         3 . open website  link : http://127.0.0.1:5000
+
+
+
+to open a folder --> cd "folder_name"
+to run a python file --> python file_name.py
+to get out of a folder --> cd ..
