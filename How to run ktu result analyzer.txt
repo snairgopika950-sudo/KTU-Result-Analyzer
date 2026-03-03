@@ -5,3 +5,8 @@
 5 . open "05_Excel_Generator" and run exporter.py (before running this delete the Final_KTU_Resuls.xlsx from  07_Final_output )
 6 . file should be saved into 07_Final_output file 
 -----------------------------------------------------------------------------------------------------
+
+
+to show webinterface :  1 . cd "06_Web_Interface"
+                        2 . run python app.py 
+                        3 . open website  link : http://127.0.0.1:5000
