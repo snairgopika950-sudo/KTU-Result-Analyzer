@@ -1,11 +1,11 @@
-1 . import the pdf into "01_Input_Zone" and rename it into "sample_result.pdf" (delete the existing old pdf also)
-2 . open the "02_Extraction_Engine" and run extractor.py (also delete what is inside the raw_data.jason ( do not delete the file entirely))
-3 . open the "03_Database_Store" and run db_manager.py ( also delete the file results.db before running )
+1 . import the pdf into "01_Input_Zone" and rename it into "sample_result.pdf" (before replacing delete the existing old pdf also)
+2 . open the "02_Extraction_Engine" and run extractor.py (brfore running  delete what is inside the raw_data.jason ( do not delete the file entirely))
+3 . open the "03_Database_Store" and run db_manager.py (before running  also delete the file results.db before running )
 4 . open "Calculation_Core" and run Calculator.py 
 5 . open "05_Excel_Generator" and run exporter.py (before running this delete the Final_KTU_Resuls.xlsx from  07_Final_output )
 6 . file should be saved into 07_Final_output file 
 -----------------------------------------------------------------------------------------------------
-
+READ FULL BEFORE PROCEEDING 
 
 to show webinterface :  1 . cd "06_Web_Interface"
                         2 . run python app.py 

@@ -1,0 +1,3702 @@
+[
+    {
+        "Register_ID": "CEK19CS004",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK19CS004",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK19CS004",
+        "Subject_Code": "CST307",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK19CS004",
+        "Subject_Code": "CST309",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK19CS011",
+        "Subject_Code": "CST307",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK19CS011",
+        "Subject_Code": "CST309",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK19CS019",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK19CS019",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK19CS021",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK19CS026",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK19CS026",
+        "Subject_Code": "CST303",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK19CS026",
+        "Subject_Code": "CST305",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK19CS026",
+        "Subject_Code": "CST307",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK19CS026",
+        "Subject_Code": "CST309",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK19CS027",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK19CS027",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK19CS029",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK19CS029",
+        "Subject_Code": "CST303",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK19CS029",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK19CS029",
+        "Subject_Code": "CST309",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK20CS005",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK20CS015",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK20CS015",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK20CS018",
+        "Subject_Code": "MCN301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK20CS018",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK20CS018",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK20CS018",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK20CS022",
+        "Subject_Code": "CST303",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK20CS022",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK20CS022",
+        "Subject_Code": "CST307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK20CS022",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK20CS024",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK20CS024",
+        "Subject_Code": "CST303",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK20CS029",
+        "Subject_Code": "CST307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK20CS029",
+        "Subject_Code": "CST309",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK21CS013",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK21CS014",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK21CS027",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK21CS027",
+        "Subject_Code": "CST305",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK21CS040",
+        "Subject_Code": "CST301",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK21CS040",
+        "Subject_Code": "CST305",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK21CS040",
+        "Subject_Code": "CST307",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK21CS040",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK21CS040",
+        "Subject_Code": "CSL331",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK21CS044",
+        "Subject_Code": "CST301",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK21CS044",
+        "Subject_Code": "CST303",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK21CS044",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK21CS044",
+        "Subject_Code": "CST307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK21CS044",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK21CS045",
+        "Subject_Code": "CST301",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK21CS045",
+        "Subject_Code": "CST303",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK21CS047",
+        "Subject_Code": "CST303",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK21CS047",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK21CS047",
+        "Subject_Code": "CST307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK21CS047",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK21CS048",
+        "Subject_Code": "CSL331",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK21CS055",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS001",
+        "Subject_Code": "MCN301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS001",
+        "Subject_Code": "CST301",
+        "Grade": "S"
+    },
+    {
+        "Register_ID": "CEK22CS001",
+        "Subject_Code": "CST303",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS001",
+        "Subject_Code": "CST305",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS001",
+        "Subject_Code": "CST307",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS001",
+        "Subject_Code": "CST309",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS001",
+        "Subject_Code": "CSL331",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS002",
+        "Subject_Code": "MCN301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS002",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS002",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS002",
+        "Subject_Code": "CST305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS002",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS002",
+        "Subject_Code": "CST309",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS002",
+        "Subject_Code": "CSL331",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS003",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS003",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS003",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS003",
+        "Subject_Code": "CST305",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS003",
+        "Subject_Code": "CST307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS003",
+        "Subject_Code": "CST309",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS003",
+        "Subject_Code": "CSL331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS004",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS004",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS004",
+        "Subject_Code": "CST303",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS004",
+        "Subject_Code": "CST305",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS004",
+        "Subject_Code": "CST307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS004",
+        "Subject_Code": "CST309",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS004",
+        "Subject_Code": "CSL331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS005",
+        "Subject_Code": "MCN301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS005",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS005",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS005",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS005",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS005",
+        "Subject_Code": "CST309",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS005",
+        "Subject_Code": "CSL331",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS006",
+        "Subject_Code": "MCN301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS006",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS006",
+        "Subject_Code": "CST303",
+        "Grade": "FE"
+    },
+    {
+        "Register_ID": "CEK22CS006",
+        "Subject_Code": "CST305",
+        "Grade": "FE"
+    },
+    {
+        "Register_ID": "CEK22CS006",
+        "Subject_Code": "CST307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS006",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS006",
+        "Subject_Code": "CSL331",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS007",
+        "Subject_Code": "MCN301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS007",
+        "Subject_Code": "CST301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS007",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS007",
+        "Subject_Code": "CST305",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS007",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS007",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS007",
+        "Subject_Code": "CSL331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS008",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS008",
+        "Subject_Code": "CST301",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS008",
+        "Subject_Code": "CST303",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS008",
+        "Subject_Code": "CST305",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS008",
+        "Subject_Code": "CST307",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS008",
+        "Subject_Code": "CST309",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS008",
+        "Subject_Code": "CSL331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS009",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS009",
+        "Subject_Code": "CST301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS009",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS009",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS009",
+        "Subject_Code": "CST307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS009",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS009",
+        "Subject_Code": "CSL331",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS010",
+        "Subject_Code": "MCN301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS010",
+        "Subject_Code": "CST301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS010",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS010",
+        "Subject_Code": "CST305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS010",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS010",
+        "Subject_Code": "CST309",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS010",
+        "Subject_Code": "CSL331",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS011",
+        "Subject_Code": "MCN301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS011",
+        "Subject_Code": "CST301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS011",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS011",
+        "Subject_Code": "CST305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS011",
+        "Subject_Code": "CST307",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS011",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS011",
+        "Subject_Code": "CSL331",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS012",
+        "Subject_Code": "MCN301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS012",
+        "Subject_Code": "CST301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS012",
+        "Subject_Code": "CST303",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS012",
+        "Subject_Code": "CST305",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS012",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS012",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS012",
+        "Subject_Code": "CSL331",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS013",
+        "Subject_Code": "MCN301",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK22CS013",
+        "Subject_Code": "CST301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS013",
+        "Subject_Code": "CST303",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS013",
+        "Subject_Code": "CST305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS013",
+        "Subject_Code": "CST307",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS013",
+        "Subject_Code": "CST309",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS013",
+        "Subject_Code": "CSL331",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS014",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS014",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS014",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS014",
+        "Subject_Code": "CST305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS014",
+        "Subject_Code": "CST307",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS014",
+        "Subject_Code": "CST309",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS014",
+        "Subject_Code": "CSL331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS015",
+        "Subject_Code": "MCN301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS015",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS015",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS015",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS015",
+        "Subject_Code": "CST307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS015",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS015",
+        "Subject_Code": "CSL331",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS016",
+        "Subject_Code": "MCN301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS016",
+        "Subject_Code": "CST301",
+        "Grade": "S"
+    },
+    {
+        "Register_ID": "CEK22CS016",
+        "Subject_Code": "CST303",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS016",
+        "Subject_Code": "CST305",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS016",
+        "Subject_Code": "CST307",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS016",
+        "Subject_Code": "CST309",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS016",
+        "Subject_Code": "CSL331",
+        "Grade": "S"
+    },
+    {
+        "Register_ID": "CEK22CS017",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS017",
+        "Subject_Code": "CST301",
+        "Grade": "S"
+    },
+    {
+        "Register_ID": "CEK22CS017",
+        "Subject_Code": "CST303",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS017",
+        "Subject_Code": "CST305",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS017",
+        "Subject_Code": "CST307",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS017",
+        "Subject_Code": "CST309",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS017",
+        "Subject_Code": "CSL331",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS018",
+        "Subject_Code": "MCN301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS018",
+        "Subject_Code": "CST301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS018",
+        "Subject_Code": "CST303",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS018",
+        "Subject_Code": "CST305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS018",
+        "Subject_Code": "CST307",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS018",
+        "Subject_Code": "CST309",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS018",
+        "Subject_Code": "CSL331",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS019",
+        "Subject_Code": "MCN301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS019",
+        "Subject_Code": "CST301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS019",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS019",
+        "Subject_Code": "CST305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS019",
+        "Subject_Code": "CST307",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS019",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS019",
+        "Subject_Code": "CSL331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS021",
+        "Subject_Code": "MCN301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS021",
+        "Subject_Code": "CST301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS021",
+        "Subject_Code": "CST303",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS021",
+        "Subject_Code": "CST305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS021",
+        "Subject_Code": "CST307",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS021",
+        "Subject_Code": "CST309",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS021",
+        "Subject_Code": "CSL331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS022",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS022",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS022",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS022",
+        "Subject_Code": "CST305",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS022",
+        "Subject_Code": "CST307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS022",
+        "Subject_Code": "CST309",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS022",
+        "Subject_Code": "CSL331",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS023",
+        "Subject_Code": "MCN301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS023",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS023",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS023",
+        "Subject_Code": "CST305",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS023",
+        "Subject_Code": "CST307",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS023",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS023",
+        "Subject_Code": "CSL331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS024",
+        "Subject_Code": "MCN301",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS024",
+        "Subject_Code": "CST301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS024",
+        "Subject_Code": "CST303",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS024",
+        "Subject_Code": "CST305",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS024",
+        "Subject_Code": "CST307",
+        "Grade": "S"
+    },
+    {
+        "Register_ID": "CEK22CS024",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS024",
+        "Subject_Code": "CSL331",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS025",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS025",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS025",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS025",
+        "Subject_Code": "CST305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS025",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS025",
+        "Subject_Code": "CST309",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS025",
+        "Subject_Code": "CSL331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS026",
+        "Subject_Code": "MCN301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS026",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS026",
+        "Subject_Code": "CST303",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS026",
+        "Subject_Code": "CST305",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS026",
+        "Subject_Code": "CST307",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS026",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS026",
+        "Subject_Code": "CSL331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS027",
+        "Subject_Code": "MCN301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS027",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS027",
+        "Subject_Code": "CST303",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS027",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS027",
+        "Subject_Code": "CST307",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS027",
+        "Subject_Code": "CST309",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS027",
+        "Subject_Code": "CSL331",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS029",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS029",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS029",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS029",
+        "Subject_Code": "CST305",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS029",
+        "Subject_Code": "CST307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS029",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS029",
+        "Subject_Code": "CSL331",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS030",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS030",
+        "Subject_Code": "CST301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS030",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS030",
+        "Subject_Code": "CST305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS030",
+        "Subject_Code": "CST307",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS030",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS030",
+        "Subject_Code": "CSL331",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS031",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS031",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS031",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS031",
+        "Subject_Code": "CST305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS031",
+        "Subject_Code": "CST307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS031",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS031",
+        "Subject_Code": "CSL331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS032",
+        "Subject_Code": "MCN301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS032",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS032",
+        "Subject_Code": "CST303",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS032",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS032",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS032",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS032",
+        "Subject_Code": "CSL331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS033",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS033",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS033",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS033",
+        "Subject_Code": "CST305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS033",
+        "Subject_Code": "CST307",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS033",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS033",
+        "Subject_Code": "CSL331",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS034",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS034",
+        "Subject_Code": "CST301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS034",
+        "Subject_Code": "CST303",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS034",
+        "Subject_Code": "CST305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS034",
+        "Subject_Code": "CST307",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS034",
+        "Subject_Code": "CST309",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS034",
+        "Subject_Code": "CSL331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS035",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS035",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS035",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS035",
+        "Subject_Code": "CST305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS035",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS035",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS035",
+        "Subject_Code": "CSL331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS036",
+        "Subject_Code": "MCN301",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS036",
+        "Subject_Code": "CST301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS036",
+        "Subject_Code": "CST303",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS036",
+        "Subject_Code": "CST305",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS036",
+        "Subject_Code": "CST307",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS036",
+        "Subject_Code": "CST309",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS036",
+        "Subject_Code": "CSL331",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS037",
+        "Subject_Code": "MCN301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS037",
+        "Subject_Code": "CST301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS037",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS037",
+        "Subject_Code": "CST305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS037",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS037",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS037",
+        "Subject_Code": "CSL331",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS038",
+        "Subject_Code": "MCN301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS038",
+        "Subject_Code": "CST301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS038",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS038",
+        "Subject_Code": "CST305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS038",
+        "Subject_Code": "CST307",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS038",
+        "Subject_Code": "CST309",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS038",
+        "Subject_Code": "CSL331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS039",
+        "Subject_Code": "MCN301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS039",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS039",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS039",
+        "Subject_Code": "CST305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS039",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS039",
+        "Subject_Code": "CST309",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS039",
+        "Subject_Code": "CSL331",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS040",
+        "Subject_Code": "MCN301",
+        "Grade": "S"
+    },
+    {
+        "Register_ID": "CEK22CS040",
+        "Subject_Code": "CST301",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS040",
+        "Subject_Code": "CST303",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS040",
+        "Subject_Code": "CST305",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS040",
+        "Subject_Code": "CST307",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS040",
+        "Subject_Code": "CST309",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS040",
+        "Subject_Code": "CSL331",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS041",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS041",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS041",
+        "Subject_Code": "CST303",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS041",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS041",
+        "Subject_Code": "CST307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS041",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS041",
+        "Subject_Code": "CSL331",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS042",
+        "Subject_Code": "MCN301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS042",
+        "Subject_Code": "CST301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS042",
+        "Subject_Code": "CST303",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS042",
+        "Subject_Code": "CST305",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS042",
+        "Subject_Code": "CST307",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS042",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS042",
+        "Subject_Code": "CSL331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS043",
+        "Subject_Code": "MCN301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS043",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS043",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS043",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS043",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS043",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS043",
+        "Subject_Code": "CSL331",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS044",
+        "Subject_Code": "MCN301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS044",
+        "Subject_Code": "CST301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS044",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS044",
+        "Subject_Code": "CST305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS044",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS044",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS044",
+        "Subject_Code": "CSL331",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS045",
+        "Subject_Code": "MCN301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS045",
+        "Subject_Code": "CST301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS045",
+        "Subject_Code": "CST303",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS045",
+        "Subject_Code": "CST305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS045",
+        "Subject_Code": "CST307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS045",
+        "Subject_Code": "CST309",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS045",
+        "Subject_Code": "CSL331",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS046",
+        "Subject_Code": "MCN301",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS046",
+        "Subject_Code": "CST301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS046",
+        "Subject_Code": "CST303",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS046",
+        "Subject_Code": "CST305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS046",
+        "Subject_Code": "CST307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS046",
+        "Subject_Code": "CST309",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS046",
+        "Subject_Code": "CSL331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS047",
+        "Subject_Code": "MCN301",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS047",
+        "Subject_Code": "CST301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS047",
+        "Subject_Code": "CST303",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS047",
+        "Subject_Code": "CST305",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS047",
+        "Subject_Code": "CST307",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS047",
+        "Subject_Code": "CST309",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS047",
+        "Subject_Code": "CSL331",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS048",
+        "Subject_Code": "MCN301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS048",
+        "Subject_Code": "CST301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS048",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS048",
+        "Subject_Code": "CST305",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS048",
+        "Subject_Code": "CST307",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS048",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS048",
+        "Subject_Code": "CSL331",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS049",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS049",
+        "Subject_Code": "CST301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS049",
+        "Subject_Code": "CST303",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK22CS049",
+        "Subject_Code": "CST305",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS049",
+        "Subject_Code": "CST307",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS049",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS049",
+        "Subject_Code": "CSL331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS051",
+        "Subject_Code": "MCN301",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS051",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS051",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS051",
+        "Subject_Code": "CST305",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS051",
+        "Subject_Code": "CST307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS051",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS051",
+        "Subject_Code": "CSL331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS052",
+        "Subject_Code": "MCN301",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS052",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS052",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS052",
+        "Subject_Code": "CST305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS052",
+        "Subject_Code": "CST307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS052",
+        "Subject_Code": "CST309",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS052",
+        "Subject_Code": "CSL331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS053",
+        "Subject_Code": "MCN301",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS053",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS053",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS053",
+        "Subject_Code": "CST305",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS053",
+        "Subject_Code": "CST307",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS053",
+        "Subject_Code": "CST309",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS053",
+        "Subject_Code": "CSL331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS054",
+        "Subject_Code": "MCN301",
+        "Grade": "S"
+    },
+    {
+        "Register_ID": "CEK22CS054",
+        "Subject_Code": "CST301",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS054",
+        "Subject_Code": "CST303",
+        "Grade": "S"
+    },
+    {
+        "Register_ID": "CEK22CS054",
+        "Subject_Code": "CST305",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS054",
+        "Subject_Code": "CST307",
+        "Grade": "S"
+    },
+    {
+        "Register_ID": "CEK22CS054",
+        "Subject_Code": "CST309",
+        "Grade": "S"
+    },
+    {
+        "Register_ID": "CEK22CS054",
+        "Subject_Code": "CSL331",
+        "Grade": "S"
+    },
+    {
+        "Register_ID": "CEK22CS055",
+        "Subject_Code": "MCN301",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS055",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS055",
+        "Subject_Code": "CST303",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS055",
+        "Subject_Code": "CST305",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS055",
+        "Subject_Code": "CST307",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS055",
+        "Subject_Code": "CST309",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS055",
+        "Subject_Code": "CSL331",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS056",
+        "Subject_Code": "MCN301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS056",
+        "Subject_Code": "CST301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS056",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS056",
+        "Subject_Code": "CST305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS056",
+        "Subject_Code": "CST307",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS056",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS056",
+        "Subject_Code": "CSL331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS058",
+        "Subject_Code": "MCN301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS058",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS058",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS058",
+        "Subject_Code": "CST305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS058",
+        "Subject_Code": "CST307",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS058",
+        "Subject_Code": "CST309",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS058",
+        "Subject_Code": "CSL331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS059",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS059",
+        "Subject_Code": "CST301",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS059",
+        "Subject_Code": "CST303",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS059",
+        "Subject_Code": "CST305",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK22CS059",
+        "Subject_Code": "CST307",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS059",
+        "Subject_Code": "CST309",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS060",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS060",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS060",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS060",
+        "Subject_Code": "CST305",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS060",
+        "Subject_Code": "CST307",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS060",
+        "Subject_Code": "CST309",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS060",
+        "Subject_Code": "CSL331",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS061",
+        "Subject_Code": "MCN301",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS061",
+        "Subject_Code": "CST301",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS061",
+        "Subject_Code": "CST303",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS061",
+        "Subject_Code": "CST305",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS061",
+        "Subject_Code": "CST307",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS061",
+        "Subject_Code": "CST309",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS061",
+        "Subject_Code": "CSL331",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS062",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS062",
+        "Subject_Code": "CST301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS062",
+        "Subject_Code": "CST303",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS062",
+        "Subject_Code": "CST305",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS062",
+        "Subject_Code": "CST307",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS062",
+        "Subject_Code": "CST309",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS062",
+        "Subject_Code": "CSL331",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS063",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS063",
+        "Subject_Code": "CST301",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS063",
+        "Subject_Code": "CST303",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS063",
+        "Subject_Code": "CST305",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS063",
+        "Subject_Code": "CST307",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS063",
+        "Subject_Code": "CST309",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS063",
+        "Subject_Code": "CSL331",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS064",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS064",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS064",
+        "Subject_Code": "CST303",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS064",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS064",
+        "Subject_Code": "CST307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS064",
+        "Subject_Code": "CST309",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS064",
+        "Subject_Code": "CSL331",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS065",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS065",
+        "Subject_Code": "CST301",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22CS065",
+        "Subject_Code": "CST303",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS065",
+        "Subject_Code": "CST305",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS065",
+        "Subject_Code": "CST307",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22CS065",
+        "Subject_Code": "CST309",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22CS065",
+        "Subject_Code": "CSL331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS066",
+        "Subject_Code": "MCN301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS066",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS066",
+        "Subject_Code": "CST303",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS066",
+        "Subject_Code": "CST305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS066",
+        "Subject_Code": "CST307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS066",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS066",
+        "Subject_Code": "CSL331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS067",
+        "Subject_Code": "MCN301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS067",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS067",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS067",
+        "Subject_Code": "CST305",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS067",
+        "Subject_Code": "CST307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS067",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS067",
+        "Subject_Code": "CSL331",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK21CS060",
+        "Subject_Code": "CST309",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK21CS060",
+        "Subject_Code": "CSL331",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK21CS061",
+        "Subject_Code": "CST305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK21CS061",
+        "Subject_Code": "CST307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK21CS061",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22CS068",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS068",
+        "Subject_Code": "CST301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS068",
+        "Subject_Code": "CST303",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS068",
+        "Subject_Code": "CST305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS068",
+        "Subject_Code": "CST307",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS068",
+        "Subject_Code": "CST309",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS068",
+        "Subject_Code": "CSL331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22CS069",
+        "Subject_Code": "MCN301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22CS069",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22CS069",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS069",
+        "Subject_Code": "CST305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS069",
+        "Subject_Code": "CST307",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22CS069",
+        "Subject_Code": "CST309",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22CS069",
+        "Subject_Code": "CSL331",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM001",
+        "Subject_Code": "MCN301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM001",
+        "Subject_Code": "CST301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM001",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM001",
+        "Subject_Code": "CST309",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM001",
+        "Subject_Code": "AMT305",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM001",
+        "Subject_Code": "AIT307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM001",
+        "Subject_Code": "AML331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22AM001",
+        "Subject_Code": "AIL333",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22AM002",
+        "Subject_Code": "MCN301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM002",
+        "Subject_Code": "CST301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM002",
+        "Subject_Code": "CST303",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM002",
+        "Subject_Code": "CST309",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22AM002",
+        "Subject_Code": "AMT305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM002",
+        "Subject_Code": "AIT307",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM002",
+        "Subject_Code": "AML331",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM003",
+        "Subject_Code": "MCN301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM003",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM003",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM003",
+        "Subject_Code": "CST309",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM003",
+        "Subject_Code": "AMT305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM003",
+        "Subject_Code": "AIT307",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM003",
+        "Subject_Code": "AML331",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM004",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM004",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM004",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM004",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM004",
+        "Subject_Code": "AMT305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM004",
+        "Subject_Code": "AIT307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM004",
+        "Subject_Code": "AML331",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM004",
+        "Subject_Code": "AIL333",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM005",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM005",
+        "Subject_Code": "CST301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM005",
+        "Subject_Code": "CST303",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM005",
+        "Subject_Code": "CST309",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM005",
+        "Subject_Code": "AMT305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM005",
+        "Subject_Code": "AIT307",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM005",
+        "Subject_Code": "AML331",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22AM006",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM006",
+        "Subject_Code": "CST301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM006",
+        "Subject_Code": "CST303",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM006",
+        "Subject_Code": "CST309",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM006",
+        "Subject_Code": "AMT305",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM006",
+        "Subject_Code": "AIT307",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM006",
+        "Subject_Code": "AML331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22AM007",
+        "Subject_Code": "MCN301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM007",
+        "Subject_Code": "CST301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM007",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM007",
+        "Subject_Code": "CST309",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM007",
+        "Subject_Code": "AMT305",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM007",
+        "Subject_Code": "AIT307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM007",
+        "Subject_Code": "AML331",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM007",
+        "Subject_Code": "AIL333",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM008",
+        "Subject_Code": "MCN301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM008",
+        "Subject_Code": "CST301",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22AM008",
+        "Subject_Code": "CST303",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM008",
+        "Subject_Code": "CST309",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22AM008",
+        "Subject_Code": "AMT305",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22AM008",
+        "Subject_Code": "AIT307",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM008",
+        "Subject_Code": "AML331",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM009",
+        "Subject_Code": "MCN301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM009",
+        "Subject_Code": "CST301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM009",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM009",
+        "Subject_Code": "CST309",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM009",
+        "Subject_Code": "AMT305",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM009",
+        "Subject_Code": "AIT307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM009",
+        "Subject_Code": "AML331",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM010",
+        "Subject_Code": "MCN301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM010",
+        "Subject_Code": "CST301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM010",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM010",
+        "Subject_Code": "CST309",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM010",
+        "Subject_Code": "AMT305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM010",
+        "Subject_Code": "AIT307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM010",
+        "Subject_Code": "AML331",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM011",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM011",
+        "Subject_Code": "CST301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM011",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM011",
+        "Subject_Code": "CST309",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM011",
+        "Subject_Code": "AMT305",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM011",
+        "Subject_Code": "AIT307",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM011",
+        "Subject_Code": "AML331",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM012",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM012",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM012",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM012",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM012",
+        "Subject_Code": "AMT305",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM012",
+        "Subject_Code": "AIT307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM012",
+        "Subject_Code": "AML331",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM013",
+        "Subject_Code": "MCN301",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM013",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM013",
+        "Subject_Code": "CST303",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM013",
+        "Subject_Code": "CST309",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM013",
+        "Subject_Code": "AMT305",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM013",
+        "Subject_Code": "AIT307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM013",
+        "Subject_Code": "AML331",
+        "Grade": "A+"
+    },
+    {
+        "Register_ID": "CEK22AM014",
+        "Subject_Code": "MCN301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM014",
+        "Subject_Code": "CST301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM014",
+        "Subject_Code": "CST303",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM014",
+        "Subject_Code": "CST309",
+        "Grade": "S"
+    },
+    {
+        "Register_ID": "CEK22AM014",
+        "Subject_Code": "AMT305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM014",
+        "Subject_Code": "AIT307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM014",
+        "Subject_Code": "AML331",
+        "Grade": "S"
+    },
+    {
+        "Register_ID": "CEK22AM015",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM015",
+        "Subject_Code": "CST301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM015",
+        "Subject_Code": "CST303",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM015",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM015",
+        "Subject_Code": "AMT305",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM015",
+        "Subject_Code": "AIT307",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM015",
+        "Subject_Code": "AML331",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM016",
+        "Subject_Code": "MCN301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM016",
+        "Subject_Code": "CST301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM016",
+        "Subject_Code": "CST303",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK22AM016",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM016",
+        "Subject_Code": "AMT305",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK22AM016",
+        "Subject_Code": "AIT307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM017",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM017",
+        "Subject_Code": "CST301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM017",
+        "Subject_Code": "CST303",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM017",
+        "Subject_Code": "CST309",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM017",
+        "Subject_Code": "AMT305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM017",
+        "Subject_Code": "AIT307",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM017",
+        "Subject_Code": "AML331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM018",
+        "Subject_Code": "MCN301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM018",
+        "Subject_Code": "CST301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM018",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM018",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM018",
+        "Subject_Code": "AMT305",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM018",
+        "Subject_Code": "AIT307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM018",
+        "Subject_Code": "AML331",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM019",
+        "Subject_Code": "MCN301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM019",
+        "Subject_Code": "CST301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM019",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM019",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM019",
+        "Subject_Code": "AMT305",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM019",
+        "Subject_Code": "AIT307",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM019",
+        "Subject_Code": "AML331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM020",
+        "Subject_Code": "MCN301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM020",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM020",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM020",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM020",
+        "Subject_Code": "AMT305",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM020",
+        "Subject_Code": "AIT307",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM020",
+        "Subject_Code": "AML331",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22AM020",
+        "Subject_Code": "AIL333",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM021",
+        "Subject_Code": "MCN301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM021",
+        "Subject_Code": "CST301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM021",
+        "Subject_Code": "CST303",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM021",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM021",
+        "Subject_Code": "AMT305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM021",
+        "Subject_Code": "AIT307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM021",
+        "Subject_Code": "AML331",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM022",
+        "Subject_Code": "MCN301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM022",
+        "Subject_Code": "CST301",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22AM022",
+        "Subject_Code": "CST303",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM022",
+        "Subject_Code": "CST309",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22AM022",
+        "Subject_Code": "AMT305",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM022",
+        "Subject_Code": "AIT307",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22AM022",
+        "Subject_Code": "AML331",
+        "Grade": "S"
+    },
+    {
+        "Register_ID": "CEK22AM023",
+        "Subject_Code": "MCN301",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM023",
+        "Subject_Code": "CST301",
+        "Grade": "A"
+    },
+    {
+        "Register_ID": "CEK22AM023",
+        "Subject_Code": "CST303",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM023",
+        "Subject_Code": "CST309",
+        "Grade": "B+"
+    },
+    {
+        "Register_ID": "CEK22AM023",
+        "Subject_Code": "AMT305",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM023",
+        "Subject_Code": "AIT307",
+        "Grade": "B"
+    },
+    {
+        "Register_ID": "CEK22AM023",
+        "Subject_Code": "AML331",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM024",
+        "Subject_Code": "MCN301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM024",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM024",
+        "Subject_Code": "CST303",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM024",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM024",
+        "Subject_Code": "AMT305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM024",
+        "Subject_Code": "AIT307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM024",
+        "Subject_Code": "AML331",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM024",
+        "Subject_Code": "AIL333",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM025",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM025",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM025",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM025",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM025",
+        "Subject_Code": "AMT305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM025",
+        "Subject_Code": "AIT307",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM025",
+        "Subject_Code": "AML331",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM026",
+        "Subject_Code": "MCN301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM026",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM026",
+        "Subject_Code": "CST303",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM026",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM026",
+        "Subject_Code": "AMT305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM026",
+        "Subject_Code": "AIT307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM026",
+        "Subject_Code": "AML331",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK22AM027",
+        "Subject_Code": "MCN301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM027",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM027",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM027",
+        "Subject_Code": "CST309",
+        "Grade": "Absent"
+    },
+    {
+        "Register_ID": "CEK22AM027",
+        "Subject_Code": "AMT305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM027",
+        "Subject_Code": "AIT307",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM027",
+        "Subject_Code": "AML331",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM028",
+        "Subject_Code": "MCN301",
+        "Grade": "C+"
+    },
+    {
+        "Register_ID": "CEK22AM028",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM028",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM028",
+        "Subject_Code": "CST309",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM028",
+        "Subject_Code": "AMT305",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM028",
+        "Subject_Code": "AIT307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM028",
+        "Subject_Code": "AML331",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM029",
+        "Subject_Code": "MCN301",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM029",
+        "Subject_Code": "CST301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM029",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM029",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM029",
+        "Subject_Code": "AMT305",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM029",
+        "Subject_Code": "AIT307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM029",
+        "Subject_Code": "AML331",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM029",
+        "Subject_Code": "AIL333",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM030",
+        "Subject_Code": "MCN301",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM030",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM030",
+        "Subject_Code": "CST303",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM030",
+        "Subject_Code": "CST309",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM030",
+        "Subject_Code": "AMT305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM030",
+        "Subject_Code": "AIT307",
+        "Grade": "C"
+    },
+    {
+        "Register_ID": "CEK22AM030",
+        "Subject_Code": "AML331",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM030",
+        "Subject_Code": "AIL333",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM031",
+        "Subject_Code": "MCN301",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM031",
+        "Subject_Code": "CST301",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM031",
+        "Subject_Code": "CST303",
+        "Grade": "P"
+    },
+    {
+        "Register_ID": "CEK22AM031",
+        "Subject_Code": "CST309",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM031",
+        "Subject_Code": "AMT305",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM031",
+        "Subject_Code": "AIT307",
+        "Grade": "F"
+    },
+    {
+        "Register_ID": "CEK22AM031",
+        "Subject_Code": "AML331",
+        "Grade": "D"
+    },
+    {
+        "Register_ID": "CEK22AM031",
+        "Subject_Code": "AIL333",
+        "Grade": "F"
+    }
+]
